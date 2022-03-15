@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on: statistical genetics/genomics/epigenomics applied to cancers, Alzheimer's and other neurodegenerative diseases, and substance use disorders (opioid use disorder specifically)
+- 🎓 My CV is: <https://rpubs.com/gabrielodom/curriculum_vitae>
 - 🌱 I’m currently learning: *a lot*, including some basic bioinformatics, some basics about substance use disorders, and more data science skills
 - 👯 I’m looking to collaborate on: some R/CRAN and R/Bioconductor packages, like
     + [pathwayPCA](https://github.com/gabrielodom/pathwayPCA): gene-set (pathway) based PCA
