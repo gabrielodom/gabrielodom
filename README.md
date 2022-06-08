@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     + [coMethDMR](https://github.com/TransBioInfoLab/coMethDMR): regions of differential co-methylation
     + [tidyREDCap](https://github.com/RaymondBalise/tidyREDCap) (with @RaymondBalise): helper functions to deal with REDCap data
     + [DOPE](https://github.com/CTN-0094/DOPE) (with @labouz): the Drug Ontology Parsing Engine
-    + [CTNote](https://github.com/CTN-0094/CTNote): NIDA Clinical Trials Network **O**utcomes, **T**reatments, and **E**ndpoints (this repo is still embargoed, so check back soon)
+    + [CTNote](https://github.com/CTN-0094/CTNote): NIDA Clinical Trials Network **O**utcomes, **T**reatments, and **E**ndpoints 
 - ⚡ Fun fact: I'm a vagrant--I live in Miami while claiming Texas and Wisconsin as "home". Also, I'm an ordained and active (eastern-rite) Catholic priest
 - 🤔 I’m looking for help with: finding jobs for my master's and PhD students (HMU if you have open entry-level biostat/data science positions)
 - 📫 How to reach me: Twitter: [@RevDocGabriel](https://twitter.com/RevDocGabriel); email: gabriel DOT odom AT fiu DOT edu
