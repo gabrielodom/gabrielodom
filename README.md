@@ -20,4 +20,4 @@ Here are some ideas to get you started:
     + [CTNote](https://github.com/CTN-0094/CTNote): NIDA Clinical Trials Network **O**utcomes, **T**reatments, and **E**ndpoints 
 - ⚡ Fun fact: I'm a vagrant--I live in Miami while claiming Texas and Wisconsin as "home". Also, I'm an ordained and active (eastern-rite) Catholic priest
 - 🤔 I’m looking for help with: finding jobs for my master's and PhD students (HMU if you have open entry-level biostat/data science positions)
-- 📫 How to reach me: Twitter: [@RevDocGabriel](https://twitter.com/RevDocGabriel); email: gabriel DOT odom AT fiu DOT edu
+- 📫 How to reach me: Email: gabriel DOT j DOT odom AT gmail DOT com; Twitter: [@RevDocGabriel](https://twitter.com/RevDocGabriel)
